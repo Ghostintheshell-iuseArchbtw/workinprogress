@@ -1,0 +1,5 @@
+2024-12-05 09:04:25 - Failed to open input file.
+2024-12-05 09:04:30 - User exited the program.
+2024-12-05 09:10:14 - Failed to open input file.
+2024-12-05 09:10:17 - Failed to open input file.
+2024-12-05 09:10:19 - User exited the program.
